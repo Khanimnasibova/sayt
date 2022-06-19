@@ -1,0 +1,45 @@
+.brand-logo{
+object-fit: contain;
+
+}
+.nav-links{
+    background: red;
+    flex-basis: 70%;
+    display: flex;
+    justify-content: center;
+
+}
+.nav-links a{
+text-decoration: none;
+color: #fff;
+padding: 10px;
+font-size: 20px;
+
+
+}
+button{
+    cursor: pointer;
+    padding: 11px 7px;
+   border: none;
+   background: red;
+   color: #fff;
+}
+
+.header2 a {
+    text-decoration: none;
+    color: rgb(211, 31, 31);
+    padding: 10px;
+    
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ 
+    
+}
+.header2 a:hover {
+background: black;
+color: yellow;
+
+}
